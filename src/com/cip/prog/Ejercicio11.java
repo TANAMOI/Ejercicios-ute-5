@@ -11,7 +11,7 @@ public class Ejercicio11 {
 			System.out.println(numeros[n]);
 			
 		}
-		System.out.println("El mayor es: "+ Math.max(numeros,numeros);
+		
 
 	}
 
